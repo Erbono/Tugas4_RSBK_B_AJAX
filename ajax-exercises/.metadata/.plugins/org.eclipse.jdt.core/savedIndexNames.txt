@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\asus\Downloads\Tugas_RSBK_B_JSF\ajax-exercises\.metadata\.plugins\org.eclipse.jdt.core
+3743656111.index
+1102986214.index
